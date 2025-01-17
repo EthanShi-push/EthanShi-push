@@ -4,11 +4,11 @@
 Hi! I’m Ethan Shi, a Computer Engineering co-op student at the University of Alberta with a deep passion for backend development and cloud technologies. My technical journey has allowed me to work with a variety of tools and frameworks, enabling me to solve real-world problems through programming. I am really addicted to the feeling of transfer theoretical concepts from brain to real life applications.
 
 - 🤔 I’m looking for **intern/coop jobs with backend development or cloud technologies.**
-- 👯 My available time is **January 6, 2025, available for 4 or 8 months intern/coop.**
+- 👯 My available time is **May 6, 2025, available for 4,8 or 12 months intern/coop.**
 - 🔭 I’m currently working on a hands-on project called the Azure Pet Store, where I’m gaining experience with deploying a cloud-native application using Azure services and with Java language as backend development.
 - 🌱 I’m currently learning **Microsoft Certified: Azure Developer Associate certification (Azure 204)**
 - 📫 How to reach me: ethanshiwork@gmail.com
-- ⚡ Fun facts: I recently view a few webpages based on Next.js, three.js and Tailwain CSS, the 3D websites created by those technologies really attract me, will probably do in the near future.
+- ⚡ Fun facts: I am self-learning embedded systems focus on stm32, will blend my software skills with embedded system in the near future.
 
 
 ## 🌐 Socials:
